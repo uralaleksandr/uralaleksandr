@@ -5,13 +5,13 @@ Currently a Computer Science student at Royal Holloway University of London
 Junior Front End Developer -> Future Full Stack Developer
 
 ## Hobbies
-[![My Skills](https://skillicons.dev/icons?i=ableton,blender,ps)](https://skillicons.dev)
 
-
-Music - Music Production, Fl Studio, Ableton Studio Djing, RekordBox, Audiophile Audio Equipment and Audio Mastering 
+Music - Music Production, Fl Studio, Ableton Studio, Djing, RekordBox, Audiophile Audio Equipment and Audio Mastering 
 
 Photography - Canon 70D, Lightroom CC, Photoshop. 
 
 3D Design - Blender, Cinema 4D, Autodesk Maya
 
 Hiking - Duke of Edinburgh, Ras-Al-Khaimah UAE, World Challenge Mongolia 2018
+
+[![My Skills](https://skillicons.dev/icons?i=ableton,blender,ps)](https://skillicons.dev)
