@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hiya, It's Aleksandr Ural 👋
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,vite,svelte,maven,nodejs,bash,c,codepen,discord,eclipse,figma,git,java,py,linux,linkedin,php,postgres,scala,tailwind,vercel,vscode)](https://skillicons.dev)
 
-<!--
-**uralaleksandr/uralaleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a Computer Science student at Royal Holloway University of London
+Junior Front End Developer -> Future Full Stack Developer
 
-Here are some ideas to get you started:
+## Hobbies
+[![My Skills](https://skillicons.dev/icons?i=ableton,blender,ps)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Music - Music Production, Fl Studio, Ableton Studio Djing, RekordBox, Audiophile Audio Equipment and Audio Mastering 
+
+Photography - Canon 70D, Lightroom CC, Photoshop. 
+
+3D Design - Blender, Cinema 4D, Autodesk Maya
+
+Hiking - Duke of Edinburgh, Ras-Al-Khaimah UAE, World Challenge Mongolia 2018
