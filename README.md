@@ -3,7 +3,7 @@
 Currently a Computer Science student at Royal Holloway University of London
 Junior Front End Developer -> Future Full Stack Developer
 
-### Known Languages Libraries,Frameworks and Tools
+### Known Languages, Libraries, Frameworks, and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,vite,svelte,maven,nodejs,bash,c,codepen,discord,eclipse,figma,git,java,py,linux,linkedin,php,postgres,scala,tailwind,vercel,vscode)](https://skillicons.dev)
 
