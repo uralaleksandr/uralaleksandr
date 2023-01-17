@@ -13,6 +13,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,vite,svelte,maven,nodejs,)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=c,eclipse,git,java,py,php,postgres,scala,tailwind,vercel)](https://skillicons.dev)
+
+<img src="assets/trpc_logo.svg" width="47px"/>
+
 <br />
 <br />
 
