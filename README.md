@@ -3,18 +3,21 @@
 Currently a Computer Science student at Royal Holloway University of London
 
 Junior Front End Developer -> Future Full Stack Developer
+<br/><br/>
 
-## 💪 Known Languages, Libraries, Frameworks, and Tools
+# 💪 Known Languages, Libraries, Frameworks, and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,vite,svelte,maven,nodejs,)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=c,eclipse,git,java,py,php,postgres,scala,tailwind,vercel)](https://skillicons.dev)
+<br/><br/>
 
-## 🧠 Currently Learning
+# 🧠 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nodejs,jquery,angular,sass,vue,docker)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ts,nextjs,nodejs,jquery,angular,sass,vue,docker)](https://skillicons.dev)
+<br/><br/>
 
-## 🏃 Hobbies 
+# 🏃 Hobbies 
 
 ### 🎹 Music - Music Production, Fl Studio, Ableton Studio, Djing, RekordBox, Audiophile Audio Equipment and Audio Mastering 
 
@@ -23,3 +26,6 @@ Junior Front End Developer -> Future Full Stack Developer
 ### 🧮 3D Design - Blender, Cinema 4D, Autodesk Maya
 
 ### ⛰️ Hiking - Duke of Edinburgh, Ras-Al-Khaimah UAE, World Challenge Mongolia 2018
+<br/><br/>
+
+# Links
