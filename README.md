@@ -44,4 +44,3 @@ Junior Front End Developer -> Future Full Stack Developer
 
 
 ![star-citizen](https://user-images.githubusercontent.com/75385989/212890686-b14e270d-4311-442c-97b6-793f8390855c.gif)
-![star-citizen-ita](https://user-images.githubusercontent.com/75385989/212892418-48f040ef-c5d4-44bf-9fbd-e851182c6662.gif)
