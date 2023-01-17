@@ -12,9 +12,7 @@ Junior Front End Developer -> Future Full Stack Developer
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,vite,svelte,maven,nodejs,)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,eclipse,git,java,py,php,postgres,scala,tailwind,vercel)](https://skillicons.dev)
-
-<img src="assets/trpc_logo.svg" width="47px"/>
+[![My Skills](https://skillicons.dev/icons?i=eclipse,c,java,py,php,postgres,scala,tailwind,vercel)](https://skillicons.dev) &nbsp;<img src="assets/trpc_logo.svg" width="47px" padding="6px"/>
 
 
 ## 🧠 Currently Learning
