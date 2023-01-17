@@ -1,4 +1,4 @@
-# Hiya, It's Aleks👋
+# Hey, It's Aleks👋
 
 ### Currently a Computer Science student at Royal Holloway University of London
 
