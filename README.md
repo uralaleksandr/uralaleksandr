@@ -29,3 +29,8 @@ Junior Front End Developer -> Future Full Stack Developer
 <br/><br/>
 
 # Links
+
+[<img width="80px" src="assets/instagram_logo.svg" />](https://www.instagram.com/uralaleksandr/)
+[<img width="80px" src="assets/discord_logo.svg" />](TiklMyPikl#3539)
+[<img width="80px" src="assets/spotify_logo.svg" />](https://open.spotify.com/user/j9phvvueikujgb9ls6w1cq2nd?si=729a171bb7a947e4)
+[<img width="80px" src="assets/linkedin_logo.svg" />](https://www.linkedin.com/in/aleksandr-ural-53a463227/)
