@@ -18,7 +18,7 @@
 
 # 🧠 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=ts,nextjs,nodejs,jquery,angular,sass,vue,docker)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ts,nextjs,nodejs,sass,vue,docker)](https://skillicons.dev)
 <br />
 <br />
 
