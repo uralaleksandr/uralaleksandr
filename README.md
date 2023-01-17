@@ -1,4 +1,4 @@
-## Hey, It's Aleks👋
+# Hey, It's Aleks👋
 
 Programer, Photographer, Editor, DJ, Producer, Video Game Nerd, Space Fan, and more!
 
@@ -30,9 +30,9 @@ Junior Front End Developer -> Future Full Stack Developer
 
 📸 Photography - Canon 70D, Lightroom CC, Photoshop. 
 
-### 🧮 3D Design - Blender, Cinema 4D, Autodesk Maya.
+🧮 3D Design - Blender, Cinema 4D, Autodesk Maya.
 
-### ⛰️ Hiking - Duke of Edinburgh, Ras-Al-Khaimah UAE, World Challenge Mongolia.
+⛰️ Hiking - Duke of Edinburgh, Ras-Al-Khaimah UAE, World Challenge Mongolia.
 
 
 ## Links
