@@ -1,6 +1,6 @@
 # Hey, It's Aleks👋
 
-Programer, Photographer, Editor, DJ, Producer, Video Game Nerd, Space Fan, and more!
+Programer, Photographer, Editor, DJ, Music Producer, Video Game Nerd, Space Fan, and more!
 
 Currently a Computer Science student at Royal Holloway University of London | 2020 - 2023
 
