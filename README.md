@@ -1,21 +1,21 @@
 # Hey, It's Aleks👋
 
-Programer, Photographer, Editor, DJ, Music Producer, Video Game Nerd, Space Fan, and more!
+Programer, Photographer, Editor, DJ, Music Producer, Video Game Nerd, Space Fan, and more.
 
-Currently a Computer Science student at Royal Holloway University of London | 2020 - 2023
+A Computer Science Graduate at Royal Holloway University of London | 2020 - 2023
 
-Junior Front End Developer -> Future Full Stack Developer
+Junior Front End / Software Developer -> Future Full Stack Developer
 
 
 
-## 💪 Known Languages, Libraries, Frameworks, and Tools
+## 💪 Things I Have Experience In
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,bootstrap,vite,svelte,maven,nodejs,)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse,c,java,py,php,postgres,scala,tailwind,vercel)](https://skillicons.dev) &nbsp;<img src="assets/trpc_logo.svg" width="47px" padding="6px"/>
 
 
-## 🧠 Currently Learning
+## 🧠 What I'm Currently Learning
 
 [![Learning](https://skillicons.dev/icons?i=ts,nextjs,nodejs,sass,vue,docker,redux)](https://skillicons.dev)
 
